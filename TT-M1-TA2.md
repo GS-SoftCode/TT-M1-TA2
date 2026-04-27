@@ -1,4 +1,4 @@
-\# Práctica de comandos de Linux
+# Práctica de comandos de Linux
 
 Estudiante: Gabriel Sotomayor
 
@@ -8,7 +8,7 @@ Duración: 1h
 
 
 
-\## Fundamentos
+## Fundamentos
 
 
 
@@ -16,7 +16,7 @@ Docker es una plataforma que permite crear, ejecutar y administrar aplicaciones 
 
 
 
-\## Conocimientos previos
+## Conocimientos previos
 
 
 
@@ -28,7 +28,7 @@ Necesario tener claro los siguientes temas:
 
 
 
-\## Objetivos
+## Objetivos
 
 
 
@@ -37,7 +37,7 @@ Necesario tener claro los siguientes temas:
 
 
 
-\## Equipo necesario:
+## Equipo necesario:
 
 
 
@@ -48,7 +48,7 @@ Necesario tener claro los siguientes temas:
 
 
 
-\## Material de apoyo
+## Material de apoyo
 
 
 
@@ -56,7 +56,7 @@ Necesario tener claro los siguientes temas:
 
 
 
-\## Procedimiento
+## Procedimiento
 
 
 
@@ -67,7 +67,7 @@ Necesario tener claro los siguientes temas:
 * En el primer contenedor, se mostrará información institucional.
 * En el segundo contenedor, se colocará información personal del estudiante.
 
-\## Resultados
+## Resultados
 
 
 
